@@ -1,0 +1,44 @@
+[
+
+{
+    "id": 1,
+    "address": "Rua da Paineira, 146",
+    "country": "Brazil",
+    "description": "Casa com 4 comodos, com vaga de garagem",
+    "price": 900000,
+    "photo": "164558"
+},
+{
+    "id": 2,
+    "address": "Rua Portal das Laranjeiras, 160",
+    "country": "Brazil",
+    "description": "Casa com 5 comodos, com piscina, varanda",
+    "price": 1500000,
+    "photo": "259600"
+},
+{
+    "id": 3,
+    "address": "89 Road of Forks, Bern",
+    "country": "Switzerland",
+    "description": "Maravilhosa casa tipo sobrado com 310 m² de área útil, 488 m² de terreno, 5 dormitórios sendo 3 suítes, dependência de empregada + WC, mobiliada, ótimo living para 3 ambientes, ar condicionado, 10 vagas de garagem.",
+    "price": 800000,
+    "photo": "277667"
+},
+{
+    "id": 4,
+    "address": "Rua São João, 256",
+    "country": "Brazil",
+    "description": "Casa com 3 andares, varanda",
+    "price": 2000000,
+    "photo": "462358"
+},
+{
+    "id": 5,
+    "address": "95 Road of Forks, Bern",
+    "country": "Switzerland",
+    "description": "Casa com cobertura, e piscina",
+    "price": 2500000,
+    "photo": "534182"
+}
+]
+

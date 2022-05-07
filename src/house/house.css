@@ -1,0 +1,30 @@
+.price {
+    font-size: larger;
+    color: coral;
+}
+
+.imgPhoto {
+    width:550px;
+    height:300px;
+}
+
+@media (min-width: 280px) {
+    body {
+        width: 100%;
+    }
+
+    p {
+        font-size: 18px;
+        margin-left: 0;
+        margin-right: 0;
+    }
+  }
+
+@media (min-width: 400px) {
+    body {
+        width: 100%;
+    }
+  }
+  
+
+  
